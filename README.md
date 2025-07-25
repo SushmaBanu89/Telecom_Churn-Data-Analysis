@@ -32,4 +32,6 @@ Excel for preliminary analysis
 SQL for data querying
 🎥 Demo Video
 <img width="938" height="434" alt="image" src="https://github.com/user-attachments/assets/55e4b360-77a8-4a22-8ef1-65f16b639f3d" />
+<img width="955" height="438" alt="image" src="https://github.com/user-attachments/assets/9af83a3f-1618-4ba1-82e9-0189ed83d4a5" />
+
 
